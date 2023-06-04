@@ -43,7 +43,7 @@ export const Slider = () => {
          
         </div>
         <div style={{ position: "relative" }}>
-          <img src="https://d2s7hpbx4rtiif.cloudfront.net/sparsh/banner/image/m/a/made-in-india-store-pc.jpg" alt="" height="350px" />
+          <img src="https://www.insuranceadvisor.com/files/uploads/business/toy-store-insurance-head-banner.webp" alt="" height="350px" />
           {/* <button
             style={{
               position: "absolute",
